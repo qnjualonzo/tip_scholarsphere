@@ -9,3 +9,5 @@ frontend/dist/
 
 # Env & Database
 .env
+backend/.env
+frontend/.env
